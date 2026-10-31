@@ -34,5 +34,5 @@ params:
 {{% blocks/lead color="white" %}}
 :construction: This site is under construction. :construction:
 
-![PowerShell Matters logo](android-chrome-512x512.png)
+![PowerShell Matters logo](android-chrome-192x192.png)
 {{% /blocks/lead %}}
