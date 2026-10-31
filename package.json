@@ -1,0 +1,26 @@
+{
+  "devDependencies": {
+    "@docsy/theme": "^0.18.0",
+    "sass-embedded": "1.105.0"
+  },
+  "scripts": {
+    "hugo": "hugo"
+  },
+  "name": "psmatters.github.io",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sdwheeler/psmatters.github.io.git"
+  },
+  "keywords": [],
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/sdwheeler/psmatters.github.io/issues"
+  },
+  "homepage": "https://github.com/sdwheeler/psmatters.github.io#readme",
+  "workspaces": [
+    "packages/hugoautogen"
+  ]
+}
